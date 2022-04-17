@@ -9,7 +9,7 @@ class Categories extends StatelessWidget {
       {"icon": "../assets/icons/FlashIcon.svg", "text": "Flash Deal"},
       {"icon": "../assets/icons/BillIcon.svg", "text": "Bill"},
       {"icon": "../assets/icons/GameIcon.svg", "text": "Game"},
-      {"icon": "../assets/icons/Gift Icon.svg", "text": "Daily Gift"},
+      {"icon": "../assets/icons/GiftIcon.svg", "text": "Daily Gift"},
       {"icon": "../assets/icons/Discover.svg", "text": "More"},
     ];
     return Padding(

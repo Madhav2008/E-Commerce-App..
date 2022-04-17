@@ -27,10 +27,10 @@ List<Product> demoProducts = [
   Product(
     id: 1,
     images: [
-      "assets/images/ps4_console_white_1.png",
-      "assets/images/ps4_console_white_2.png",
-      "assets/images/ps4_console_white_3.png",
-      "assets/images/ps4_console_white_4.png",
+      "../assets/images/ps4_console_white_1.png",
+      "../assets/images/ps4_console_white_2.png",
+      "../assets/images/ps4_console_white_3.png",
+      "../assets/images/ps4_console_white_4.png",
     ],
     colors: [
       Color(0xFFF6625E),
@@ -48,7 +48,7 @@ List<Product> demoProducts = [
   Product(
     id: 2,
     images: [
-      "assets/images/Image Popular Product 2.png",
+      "../assets/images/Image Popular Product 2.png",
     ],
     colors: [
       Color(0xFFF6625E),
@@ -65,7 +65,7 @@ List<Product> demoProducts = [
   Product(
     id: 3,
     images: [
-      "assets/images/glap.png",
+      "../assets/images/glap.png",
     ],
     colors: [
       Color(0xFFF6625E),
@@ -83,7 +83,7 @@ List<Product> demoProducts = [
   Product(
     id: 4,
     images: [
-      "assets/images/wireless headset.png",
+      "../assets/images/wireless headset.png",
     ],
     colors: [
       Color(0xFFF6625E),

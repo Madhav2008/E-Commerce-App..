@@ -46,7 +46,7 @@ class CheckoutCard extends StatelessWidget {
                     color: Color(0xFFF5F6F9),
                     borderRadius: BorderRadius.circular(10),
                   ),
-                  child: SvgPicture.asset("assets/icons/receipt.svg"),
+                  child: SvgPicture.asset("../assets/icons/receipt.svg"),
                 ),
                 Spacer(),
                 Text("Add voucher code"),

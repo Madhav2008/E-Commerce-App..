@@ -6,7 +6,6 @@ import 'package:e_commerce_app_2/screens/complete_profile/complete_profile_scree
 import '../../../constants.dart';
 import '../../../size_config.dart';
 
-
 class SignUpForm extends StatefulWidget {
   @override
   _SignUpFormState createState() => _SignUpFormState();

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/components/rounded_icon_btn.dart';
+import 'package:e_commerce_app_2/components/rounded_icon_btn.dart';
 import 'package:shop_app/models/Product.dart';
 
 import '../../../constants.dart';

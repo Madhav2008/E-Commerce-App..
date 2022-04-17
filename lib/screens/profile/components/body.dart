@@ -33,7 +33,7 @@ class Body extends StatelessWidget {
           ),
           ProfileMenu(
             text: "Log Out",
-            icon: "../assets/icons/Log out.svg",
+            icon: "../assets/icons/Logout.svg",
             press: () {},
           ),
         ],

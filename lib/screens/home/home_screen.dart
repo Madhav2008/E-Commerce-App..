@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:e_commerce_app_2/components/coustom_bottom_nav_bar.dart';
-import 'package:shop_app/enums.dart';
+import 'package:e_commerce_app_2/enums.dart';
 
 import 'components/body.dart';
 

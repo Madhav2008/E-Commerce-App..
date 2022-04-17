@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:e_commerce_app_2/components/default_button.dart';
 import 'package:e_commerce_app_2/size_config.dart';
-
 import '../../../constants.dart';
 
 class OtpForm extends StatefulWidget {

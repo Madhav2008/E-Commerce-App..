@@ -83,7 +83,7 @@ List<Product> demoProducts = [
   Product(
     id: 4,
     images: [
-      "../assets/images/wireless headset.png",
+      "../assets/images/wirelessheadset.png",
     ],
     colors: [
       Color(0xFFF6625E),

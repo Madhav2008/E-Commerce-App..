@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:e_commerce_app_2/routes.dart';
 import 'package:e_commerce_app_2/screens/profile/profile_screen.dart';
-import 'package:shop_app/screens/splash/splash_screen.dart';
+import 'package:e_commerce_app_2/screens/splash/splash_screen.dart';
 import 'package:shop_app/theme.dart';
 
 void main() {

@@ -8,7 +8,7 @@ import 'package:e_commerce_app_2/screens/login_success/login_success_screen.dart
 import 'package:e_commerce_app_2/screens/otp/otp_screen.dart';
 import 'package:e_commerce_app_2/screens/profile/profile_screen.dart';
 import 'package:shop_app/screens/sign_in/sign_in_screen.dart';
-import 'package:shop_app/screens/splash/splash_screen.dart';
+import 'package:e_commerce_app_2/screens/splash/splash_screen.dart';
 
 import 'screens/sign_up/sign_up_screen.dart';
 

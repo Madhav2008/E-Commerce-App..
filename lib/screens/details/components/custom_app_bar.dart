@@ -35,7 +35,7 @@ class CustomAppBar extends StatelessWidget {
                 ),
                 onPressed: () => Navigator.pop(context),
                 child: SvgPicture.asset(
-                  "../assets/icons/Back ICon.svg",
+                  "../assets/icons/BackICon.svg",
                   height: 15,
                 ),
               ),

@@ -3,7 +3,6 @@ import 'package:e_commerce_app_2/components/custom_surfix_icon.dart';
 import 'package:e_commerce_app_2/components/default_button.dart';
 import 'package:e_commerce_app_2/components/form_error.dart';
 import 'package:e_commerce_app_2/screens/complete_profile/complete_profile_screen.dart';
-
 import '../../../constants.dart';
 import '../../../size_config.dart';
 

@@ -4,7 +4,7 @@ import 'package:e_commerce_app_2/screens/complete_profile/complete_profile_scree
 import 'package:e_commerce_app_2/screens/details/details_screen.dart';
 import 'package:e_commerce_app_2/screens/forgot_password/forgot_password_screen.dart';
 import 'package:e_commerce_app_2/screens/home/home_screen.dart';
-import 'package:shop_app/screens/login_success/login_success_screen.dart';
+import 'package:e_commerce_app_2/screens/login_success/login_success_screen.dart';
 import 'package:shop_app/screens/otp/otp_screen.dart';
 import 'package:shop_app/screens/profile/profile_screen.dart';
 import 'package:shop_app/screens/sign_in/sign_in_screen.dart';

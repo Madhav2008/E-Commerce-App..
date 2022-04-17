@@ -4,7 +4,6 @@ import 'package:e_commerce_app_2/components/default_button.dart';
 import 'package:e_commerce_app_2/components/form_error.dart';
 import 'package:e_commerce_app_2/components/no_account_text.dart';
 import 'package:e_commerce_app_2/size_config.dart';
-
 import '../../../constants.dart';
 
 class Body extends StatelessWidget {

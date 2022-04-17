@@ -31,7 +31,7 @@ class SpecialOffers extends StatelessWidget {
                 press: () {},
               ),
               SpecialOfferCard(
-                image: "../assets/images/Image Banner 3.png",
+                image: "../assets/images/ImageBanner3.png",
                 category: "Fashion",
                 numOfBrands: 24,
                 press: () {},

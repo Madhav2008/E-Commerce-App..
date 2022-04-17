@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:e_commerce_app_2/components/default_button.dart';
 import 'package:e_commerce_app_2/models/Product.dart';
 import 'package:e_commerce_app_2/size_config.dart';
-
 import 'color_dots.dart';
 import 'product_description.dart';
 import 'top_rounded_container.dart';

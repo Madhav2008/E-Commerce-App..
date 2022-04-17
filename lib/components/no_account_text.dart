@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/screens/sign_up/sign_up_screen.dart';
+import 'package:e_commerce_app_2/screens/sign_up/sign_up_screen.dart';
 
 import '../constants.dart';
 import '../size_config.dart';

@@ -52,7 +52,7 @@ class CustomBottomNavBar extends StatelessWidget {
                 onPressed: () {},
               ),
               IconButton(
-                icon: SvgPicture.asset("../assets/icons/Chatbubble Icon.svg"),
+                icon: SvgPicture.asset("../assets/icons/ChatbubbleIcon.svg"),
                 onPressed: () {},
               ),
               IconButton(
